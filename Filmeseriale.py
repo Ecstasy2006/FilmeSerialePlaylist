@@ -8,7 +8,7 @@ for i in range(1):
     press('esc')
     sleep(1)
     #image of the next video button
-    click(locateCenterOnScreen('next.png'))
+    click(locateCenterOnScreen('next001.png'))
     move(0, 200)
     sleep(3)
     click()
